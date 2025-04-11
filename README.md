@@ -23,6 +23,12 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+Перейти в директорию с проектом:
+
+```
+cd yatube_api
+```
+
 Выполнить миграции:
 
 ```
